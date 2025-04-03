@@ -1,2 +1,2 @@
-# SCT_WD_1
-web development internship
+# Landing page website 
+Developed this website using HTML, CSS, javascript which is responsive.
